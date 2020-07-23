@@ -1,10 +1,10 @@
 @font-face {
   font-family: icomoon;
-  src: url(fonts/icomoon.eot?ic6380);
-  src: url(fonts/icomoon.eot?ic6380#iefix) format("embedded-opentype"),
-    url(fonts/icomoon.ttf?ic6380) format("truetype"),
-    url(fonts/icomoon.woff?ic6380) format("woff"),
-    url(fonts/icomoon.svg?ic6380#icomoon) format("svg");
+  src: url(https://www.movidesk.com/basedeconhecimento/fonts/icomoon.eot?ic6380);
+  src: url(https://www.movidesk.com/basedeconhecimento/fonts/icomoon.eot?ic6380#iefix) format("embedded-opentype"),
+    url(https://www.movidesk.com/basedeconhecimento/fonts/icomoon.ttf?ic6380) format("truetype"),
+    url(https://www.movidesk.com/basedeconhecimento/fonts/icomoon.woff?ic6380) format("woff"),
+    url(https://www.movidesk.com/basedeconhecimento/fonts/icomoon.svg?ic6380#icomoon) format("svg");
   font-weight: 400;
   font-style: normal;
 }
