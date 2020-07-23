@@ -20,6 +20,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.logoRecortado {
+    height: 40px;
+    width: 80px;
+    object-fit: cover;
+      }
 .icon-mv-wa3:before {
   content: "\e932";
 }
