@@ -706,11 +706,11 @@ body {
   margin: 17px 0;
   float: left;
   display: block;
-  height: auto;
+  height: 40px;
 }
 @media (max-width: 767px) {
   #header__top #logo {
-    width: 100%;
+    width: 80px;
     padding: 0 15px;
   }
   #header__top #logo img {
