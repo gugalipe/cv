@@ -704,13 +704,13 @@ body {
 #header__top #logo {
   padding: 0;
   margin: auto;
-  float: left;
+  align: left;
   display: block;
   height: 50px;
 }
 @media (max-width: 767px) {
   #header__top #logo {
-    width: 100%;
+    width: 90%;
     padding: 10px 8px;
   }
   #header__top #logo img {
