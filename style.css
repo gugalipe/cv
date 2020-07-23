@@ -703,7 +703,7 @@ body {
 }
 #header__top #logo {
   padding: 0;
-  margin: 17px 0;
+  margin: auto;
   float: left;
   display: block;
   height: 40px;
