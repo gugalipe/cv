@@ -1569,7 +1569,7 @@ body > .body-content article#kb-article #related-articles ul li a {
   }
   .logoRecortado{
   align: left;
-    padding: 8px;
+  justify-content: center;
   }
 }
 .search-container > h1 {
