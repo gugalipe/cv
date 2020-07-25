@@ -1567,6 +1567,10 @@ body > .body-content article#kb-article #related-articles ul li a {
     padding-right: 15px;
     padding-left: 15px;
   }
+  .logoRecortado{
+  align: right;
+    padding: 8px;
+  }
 }
 .search-container > h1 {
   font-size: 22px;
