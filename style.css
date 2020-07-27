@@ -738,6 +738,7 @@ body {
 @media (max-width: 767px) {
   #header__top .enter__contact {
     display: flex;
+    margin-right: 10px;
   }
 }
 #header__top .enter__contact a.btn-entrar {
