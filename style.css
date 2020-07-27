@@ -710,7 +710,7 @@ body {
 }
 @media (max-width: 767px) {
   #header__top #logo {
-    width: 70%;
+    width: 100%;
     padding: 0 15px;
   }
   #header__top #logo img {
@@ -729,7 +729,7 @@ body {
 }
 @media (max-width: 767px) {
   #header__top .text__central {
-    display: flex;
+    display: none;
   }
 }
 #header__top .enter__contact {
