@@ -729,7 +729,7 @@ body {
 }
 @media (max-width: 767px) {
   #header__top .text__central {
-    display: none;
+    display: flex;
   }
 }
 #header__top .enter__contact {
@@ -738,7 +738,7 @@ body {
 }
 @media (max-width: 767px) {
   #header__top .enter__contact {
-    display: none;
+    display: flex;
   }
 }
 #header__top .enter__contact a.btn-entrar {
